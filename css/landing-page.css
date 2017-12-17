@@ -77,12 +77,12 @@ header.masthead {
 .call-to-action {
   position: relative;
   background-color: #343a40;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background: url("../img/footer.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding-top: 7rem;
+  padding-top: 5rem;
   padding-bottom: 7rem; }
   .call-to-action .overlay {
     position: absolute;

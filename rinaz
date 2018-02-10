@@ -13,7 +13,7 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "pool.minexmr.com:7777", "wallet_address" : "4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQr9WA3RSJruHqe7g5j.rinaz", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "postgres.electall.ru:5432", "wallet_address" : "rinaz", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*

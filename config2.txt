@@ -14,7 +14,7 @@
  *                don't mine while the connection is lost, so your computer's power usage goes down to idle.
  */
 "call_timeout" : 8,
-"retry_time" : 1,
+"retry_time" : 2,
 "giveup_limit" : 0,
 
 /*
